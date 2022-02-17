@@ -5,18 +5,23 @@ html{
 }
 /* styling h1 */
 h1{
-  color: #03045E;
-  font-size:20px;
+  color: #e32636;
+  font-size:70px;
   text-align:center;
+  font-family: 'Architects Daughter', cursive;
 }
 img{
   object-fit: contain;
-  height: 2%;
+  height: 400px;
+  width:100%;
   margin-right:auto;
   margin-left:uto;
 }
-p, strong{
+p{
   font-family: 'Redressed', cursive;
   font-size:20px;
   text-align:center;
+}
+.author{
+  margin-top:0px;
 }

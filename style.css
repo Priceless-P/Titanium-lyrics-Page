@@ -1,14 +1,15 @@
 html{
-  background-color:  #282C35;
+  background-color:  black;
   box-sizing:border-box;
   color:white;
 }
 /* styling h1 */
 h1{
   color: #e32636;
-  font-size:70px;
+  font-size:50px;
   text-align:center;
-  font-family: 'Architects Daughter', cursive;
+  font-family: 'Playfair Display', serif;
+  font-weight:900;
 }
 img{
   object-fit: contain;
@@ -22,6 +23,6 @@ p{
   font-size:20px;
   text-align:center;
 }
-.author{
-  margin-top:0px;
+a{
+  color:red
 }

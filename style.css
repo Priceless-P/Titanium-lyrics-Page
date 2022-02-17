@@ -6,13 +6,16 @@ html{
 /* styling h1 */
 h1{
   color: #03045E;
+  font-size:20px;
+  text-align:center;
 }
 img{
-  width:300px;
-  height: auto;
-  margin:auto;
+  object-fit: contain;
+  height: 2%;
+  margin-right:auto;
+  margin-left:uto;
 }
-p{
+p, strong{
   font-family: 'Redressed', cursive;
   font-size:20px;
   text-align:center;
